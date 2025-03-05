@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duna.Endpoint", "Duna.Endpoint\Duna.Endpoint.csproj", "{FE1241B4-5E40-44F7-8F44-FF23C560FBC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duna.Entities", "Duna.Entities\Duna.Entities.csproj", "{00C28F4C-98D4-458D-A5FA-9E95BCE0B8DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duna.Data", "Duna.Data\Duna.Data.csproj", "{1365825B-8A6A-4413-A663-185411BD6FBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE1241B4-5E40-44F7-8F44-FF23C560FBC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1241B4-5E40-44F7-8F44-FF23C560FBC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1241B4-5E40-44F7-8F44-FF23C560FBC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1241B4-5E40-44F7-8F44-FF23C560FBC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00C28F4C-98D4-458D-A5FA-9E95BCE0B8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C28F4C-98D4-458D-A5FA-9E95BCE0B8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C28F4C-98D4-458D-A5FA-9E95BCE0B8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C28F4C-98D4-458D-A5FA-9E95BCE0B8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1365825B-8A6A-4413-A663-185411BD6FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1365825B-8A6A-4413-A663-185411BD6FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1365825B-8A6A-4413-A663-185411BD6FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1365825B-8A6A-4413-A663-185411BD6FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
